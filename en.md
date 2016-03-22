@@ -62,7 +62,7 @@ Although it is not a requirement, we highly encourage all players to use the /re
     8. X-ray mods or texture packs
     9. Mods that enhance player visibility (enlarged name tags)
     10. Mods that enhance sprinting capabilities
-    11. Mods that allow you to enemy health. 
+    11. Mods that allow you to see enemy health. 
 
 4. _Consult a staff member if you are unsure a modification is permitted on The Avicus Network._
   

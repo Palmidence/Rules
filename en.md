@@ -62,6 +62,7 @@ Although it is not a requirement, we highly encourage all players to use the /re
     8. X-ray mods or texture packs
     9. Mods that enhance player visibility (enlarged name tags)
     10. Mods that enhance sprinting capabilities
+    11. Mods that allow you to enemy health. 
 
 4. _Consult a staff member if you are unsure a modification is permitted on The Avicus Network._
   
@@ -85,7 +86,7 @@ Although it is not a requirement, we highly encourage all players to use the /re
 
 ### E. Scrimmage Server Rules
 
-1. All server rules apply with the exception of spawn-blocking, spawn-killing, team griefing and team spleefing.
+1. All server rules apply with the exception of spawn-blocking, spawn-killing, team griefing, combat logging and team spleefing.
 2. Repeatedly failing to utilize a scrimmage server in compliance with this ruleset will result in a punishment for the players involved.
 3. The Avicus Network will not compensate in any way if a scrimmage server fails to activate or performs insufficiently.
-4. Team leaders are ultimately responsible for each team members. action.
+4. Team leaders are ultimately responsible for each team members actions.

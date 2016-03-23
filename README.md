@@ -3,6 +3,8 @@ The Avicus Network official server ruleset, translated into many languages.
 
 #Current Languages
 
- - English
- - Spanish
- - Sweedish
+ - [x] English
+ - [ ] Spanish
+ - [x] Sweedish
+ - [x] German
+ - [ ] Dutch

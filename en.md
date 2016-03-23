@@ -20,8 +20,7 @@ Although it is not a requirement, we highly encourage all players to use the /re
 5. Do not encourage other players to break any rule listed on this page. If a player breaks a rule in response to your directions, you will be held accountable.
 6. Ban evasion is not permitted and will result in a permanent ban on all accounts associated with the original Minecraft account.
 7. If you are not a staff member, do not impersonate or act as if you are a member of the Avicus staff.
-8. If you are caught ban evading, you will receive a permanent ban on all affiliated accounts that is registered under your IP address.
-9. Do not intentionally take advantage of server exploits that give you an advantage of other players. Doing so may result in a severe punishment, depending on its severity. In many instances we would highly encourage you to email [support@avicus.net](mailto:support@avicus.net) with details regarding the potential server exploit.
+8. Do not intentionally take advantage of server exploits that give you an advantage of other players. Doing so may result in a severe punishment, depending on its severity. In many instances we would highly encourage you to email [support@avicus.net](mailto:support@avicus.net) with details regarding the potential server exploit.
   
 
 ### B. Network Rules

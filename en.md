@@ -1,4 +1,4 @@
-### Preface
+﻿### Preface
 
 Disobeying the rules listed on this page while using any Avicus Network service will result in a punishment in the form of a warn, kick, temporary ban, permanent ban, temporary website ban or permanent website ban. The punishment is dependent on the severity of the rule broken and the judgement of the staff member. Previous infractions will be taken into account when punishing a player.
 
@@ -9,11 +9,11 @@ Although it is not a requirement, we highly encourage all players to use the /re
 1. Maintain a casual and positive atmosphere at all times. Be respectful of all players. Harassment and bullying are strictly not allowed.
 2. Scamming (the act of stealing information, money, accounts or other private goods through deception or trickery) is not allowed and will result in a severe punishment.
 3. The communication features provided through our Minecraft server, the forums and the Avicus Teamspeak server is a privilage. Abusing messaging features through partaking in one of the following actions below is strictly against the rules. If you are unsure if content that you intend to send through chat is allowed, please contact a staff member to verify the content.
-    - Spamming chat: repeatedly sending similar or identical messages to the point in which it may be bothersome and annoying to other users.
-    - Linking to material that may be considered objectionable.
-    - Linking to content that promotes other Minecraft services. This includes, but is not limited to, other Minecraft servers and their corresponding websites and social media content that promotes other Minecraft servers.
-    - Using miscellaneous communication methods such as poking on the Teamspeak server in a repetitive and bothersome fashion.
-    - Provoking or insulting people or a group.
+    - Spamming chat: repeatedly sending similar or identical messages to the point in which it may be bothersome and annoying to other users
+    - Linking to material that may be considered objectionable
+    - Linking to content that promotes other Minecraft services. This includes, but is not limited to, other Minecraft servers and their corresponding websites and social media content that promotes other Minecraft servers
+    - Using miscellaneous communication methods such as poking on the Teamspeak server in a repetitive and bothersome fashion
+    - Provoking or insulting people or a group
     - Distribution of personal information on other users
 
 4. Follow the directions given by any Avicus staff member. **If you believe a staff member is abusing their power through wrongful punishments or other methods, please email [support@avicus.net](mailto:support@avicus.net) and provide any evidence or details you possess regarding the staff member.**
@@ -27,14 +27,14 @@ Although it is not a requirement, we highly encourage all players to use the /re
 
 1. Your Minecraft username and skin must be appopriate for all ages. Objectionable usernames and skins will not be tolerated.
 2. You may not intentionally negatively impact your team in any way. This includes any of the following actions listed below. There may be actions not listed below that may be deemed against the rules by a staff member.
-    - Stealing from team members.
-    - Griefing team bases and structures.
-    - Killing or attempting to kill members of your own team.
+    - Stealing from team members
+    - Griefing team bases and structures
+    - Killing or attempting to kill members of your own team
 
 3. Abusing the report system will not be tolerated. Do not encourage others to report a specific player and do not repeatedly report the same user if a staff member has not attended to the report.
 4. Do not publicly accuse players of hacking.
 5. No spawn killing. This is defined as killing players of other teams briefly after their spawning. Ensure you allow time for enemy team members to acknowledge their location and surroundings. A staff member will use their best judgement to determine if a player is spawn killing.
-6. Do not cooperate with the enemy team in order to give your team an advantage.
+6. Do not cooperate with the enemy team in order to give your team a disadvantage.
 7. As a spectator, do not give out tactical information that could potentially give a team or any player in game an advantage over others.
 8. Combat logging is strictly not permitted (logging off or leaving your team in anticipation of dying).
   
@@ -61,7 +61,7 @@ Although it is not a requirement, we highly encourage all players to use the /re
     8. X-ray mods or texture packs
     9. Mods that enhance player visibility (enlarged name tags)
     10. Mods that enhance sprinting capabilities
-    11. Mods that allow you to see enemy health. 
+    11. Mods that allow you to see enemy health
 
 4. _Consult a staff member if you are unsure a modification is permitted on The Avicus Network._
   

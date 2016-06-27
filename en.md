@@ -21,11 +21,12 @@ Although it is not a requirement, we highly encourage all players to use the /re
 6. Ban evasion is not permitted and will result in a permanent ban on all accounts associated with the original Minecraft account.
 7. If you are not a staff member, do not impersonate or act as if you are a member of the Avicus staff.
 8. Do not intentionally take advantage of server exploits that give you an advantage of other players. Doing so may result in a severe punishment, depending on its severity. In many instances we would highly encourage you to email [support@avicus.net](mailto:support@avicus.net) with details regarding the potential server exploit.
+9. Threatening someone in any way, on any Avicus Service, will not be tolerated. This may include but not limited to, DDOS, Dox and any form of death threats.
   
 
 ### B. Network Rules
 
-1. Your Minecraft username and skin must be appopriate for all ages. Objectionable usernames and skins will not be tolerated.
+1. Your Minecraft username and skin must be appopriate for all ages. Objectionable Skins will not be tolerated. Objectionable usernames and any username that gives the impression of or slightly relates to something objectionable will be punished.
 2. You may not intentionally negatively impact your team in any way. This includes any of the following actions listed below. There may be actions not listed below that may be deemed against the rules by a staff member.
     - Stealing from team members
     - Griefing team bases and structures
@@ -36,7 +37,7 @@ Although it is not a requirement, we highly encourage all players to use the /re
 5. No spawn killing. This is defined as killing players of other teams briefly after their spawning. Ensure you allow time for enemy team members to acknowledge their location and surroundings. A staff member will use their best judgement to determine if a player is spawn killing.
 6. Do not cooperate with the enemy team in order to give your team a disadvantage.
 7. As a spectator, do not give out tactical information that could potentially give a team or any player in game an advantage over others.
-8. Combat logging is strictly not permitted (logging off or leaving your team in anticipation of dying).
+8. Combat logging is strictly not permitted (logging off or leaving your team in anticipation of dying). Preventing someone from obtaining a kill (such as shooting yourself when falling into the void) will also not be tolerated.
   
 
 ### C. Client Modifications
@@ -93,3 +94,10 @@ Although it is not a requirement, we highly encourage all players to use the /re
 2. Repeatedly failing to utilize a scrimmage server in compliance with this ruleset will result in a punishment for the players involved.
 3. The Avicus Network will not compensate in any way if a scrimmage server fails to activate or performs insufficiently.
 4. Team leaders are ultimately responsible for each team members actions.
+
+### F. Other
+
+1. These rules are subject to change without notice. Players are responsible for keeping up with rule changes, it is up to you to keep checking the rule page.
+2. There is a one week grace period for rule changes.
+
+

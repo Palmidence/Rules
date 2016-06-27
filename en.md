@@ -65,6 +65,9 @@ Although it is not a requirement, we highly encourage all players to use the /re
     12. Macros, autoclickers, multiple attack buttons, editing hardware or having software to allow clicking than humanily possible, changing default mouse intereactions etc, Is not allowed. The general rule is One button, one finger, one click 
 
 4. _Consult a staff member if you are unsure a modification is permitted on The Avicus Network._
+
+5. Do not intentionally make it look as though you are using a hack client. Doing so will result in a punishment. 
+
   
 
 ### D. Forum Rules

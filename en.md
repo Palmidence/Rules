@@ -21,7 +21,7 @@ Although it is not a requirement, we highly encourage all players to use the /re
 6. Ban evasion is not permitted and will result in a permanent ban on all accounts associated with the original Minecraft account.
 7. If you are not a staff member, do not impersonate or act as if you are a member of the Avicus staff.
 8. Do not intentionally take advantage of server exploits that give you an advantage of other players. Doing so may result in a severe punishment, depending on its severity. In many instances we would highly encourage you to email [support@avicus.net](mailto:support@avicus.net) with details regarding the potential server exploit.
-9. Threatening someone in any way, on any Avicus Service, will not be tolerated. This may include but not limited to, DDOS, Dox and any form of death threats.
+9. Threatening someone in any way, on any Avicus *service*, will not be tolerated. This may *include,* but *is* not limited to, DDOS, *dox*, and *death threats of any form.*
   
 
 ### B. Network Rules
@@ -99,5 +99,4 @@ Although it is not a requirement, we highly encourage all players to use the /re
 
 1. These rules are subject to change without notice. Players are responsible for keeping up with rule changes, it is up to you to keep checking the rule page.
 2. There is a one week grace period for rule changes.
-
 

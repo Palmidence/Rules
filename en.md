@@ -26,7 +26,7 @@ Although it is not a requirement, we highly encourage all players to use the /re
 
 ### B. Network Rules
 
-1. Your Minecraft username and skin must be appopriate for all ages. Objectionable Skins will not be tolerated. Objectionable usernames and any username that gives the impression of or slightly relates to something objectionable will be punished.
+1. Your Minecraft username and skin must be *appropriate* for all ages. Objectionable skins will not be tolerated. Objectionable usernames and any username that gives the impression of or slightly relates to something objectionable will result in punishment.
 2. You may not intentionally negatively impact your team in any way. This includes any of the following actions listed below. There may be actions not listed below that may be deemed against the rules by a staff member.
     - Stealing from team members
     - Griefing team bases and structures
@@ -39,6 +39,7 @@ Although it is not a requirement, we highly encourage all players to use the /re
 7. As a spectator, do not give out tactical information that could potentially give a team or any player in game an advantage over others.
 8. Combat logging is strictly not permitted (logging off or leaving your team in anticipation of dying). Preventing someone from obtaining a kill (such as shooting yourself when falling into the void) will also not be tolerated.
   
+
 
 ### C. Client Modifications
 

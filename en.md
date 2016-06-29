@@ -37,8 +37,7 @@ Although it is not a requirement, we highly encourage all players to use the /re
 5. No spawn killing. This is defined as killing players of other teams briefly after their spawning. Ensure you allow time for enemy team members to acknowledge their location and surroundings. A staff member will use their best judgement to determine if a player is spawn killing.
 6. Do not cooperate with the enemy team in order to give your team a disadvantage.
 7. As a spectator, do not give out tactical information that could potentially give a team or any player in game an advantage over others.
-8. Combat logging is strictly not permitted (logging off or leaving your team in anticipation of dying). Preventing someone from obtaining a kill (such as shooting yourself when falling into the void) will also not be tolerated.
-  
+8. Combat logging (logging off or leaving your team in anticipation of dying) is strictly not permitted.
 
 
 ### C. Client Modifications

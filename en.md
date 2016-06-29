@@ -63,7 +63,7 @@ Although it is not a requirement, we highly encourage all players to use the /re
     9. Mods that enhance player visibility (enlarged name tags)
     10. Mods that enhance sprinting capabilities
     11. Mods that allow you to see enemy health
-    12. Macros, autoclickers, multiple attack buttons, editing hardware or having software to allow clicking than humanily possible, changing default mouse intereactions etc, Is not allowed. The general rule is One button, one finger, one click.
+    12. Macros, autoclickers, multiple attack buttons, editing hardware or having software to allow clicking than *humanly* possible, changing default mouse interactions, etc. The general rule as to how you should click is one button, one finger, one click. 
 
 4. _Consult a staff member if you are unsure a modification is permitted on The Avicus Network._
 
@@ -99,4 +99,3 @@ Although it is not a requirement, we highly encourage all players to use the /re
 
 1. These rules are subject to change without notice. Players are responsible for keeping up with rule changes, it is up to you to keep checking the rule page.
 2. There is a one week grace period for rule changes.
-

@@ -15,12 +15,13 @@ Although it is not a requirement, we highly encourage all players to use the /re
     - Using miscellaneous communication methods such as poking on the Teamspeak server in a repetitive and bothersome fashion
     - Provoking or insulting people or a group
     - Distribution of personal information on other users
+    - Exessive use of caps
 
-4. Follow the directions given by any Avicus staff member. **If you believe a staff member is abusing their power through wrongful punishments or other methods, please email [support@avicus.net](mailto:support@avicus.net) and provide any evidence or details you possess regarding the staff member.**
+4. Follow the directions given by any Avicus staff member. Do not lie to a staff member. **If you believe a staff member is abusing their power through wrongful punishments or other methods, please email [support@avicus.net](mailto:support@avicus.net) and provide any evidence or details you possess regarding the staff member.**
 5. Do not encourage other players to break any rule listed on this page. If a player breaks a rule in response to your directions, you will be held accountable.
-6. Ban evasion is not permitted and will result in a permanent ban on all accounts associated with the original Minecraft account.
+6. Ban evasion is not permitted, with the exception of ban evading an innapropriate username punishment, and will result in a permanent ban on all accounts associated with the original Minecraft account.
 7. If you are not a staff member, do not impersonate or act as if you are a member of the Avicus staff.
-8. Do not intentionally take advantage of server exploits that give you an advantage of other players. Doing so may result in a severe punishment, depending on its severity. In many instances we would highly encourage you to email [support@avicus.net](mailto:support@avicus.net) with details regarding the potential server exploit.
+8. Do not intentionally take advantage of server exploits that give you an advantage of other players. Doing so may result in a severe punishment, depending on its severity. In many instances we would highly encourage you to submit a ticket on the issue tracker, https://github.com/Avicus/Issues/issues, with details regarding the potential server exploit.
 9. Threatening someone in any way, on most Avicus services, will not be tolerated. This may include, but is not limited to, DDOS, Dox, and death threats of any form. Their are exceptions to this rule on Avicus Teamspeak, depending on the channel you are in.
  
 
@@ -31,6 +32,7 @@ Although it is not a requirement, we highly encourage all players to use the /re
     - Stealing from team members
     - Griefing team bases and structures
     - Killing or attempting to kill members of your own team
+    - Preventing your teammate from completing an objective or stealing an objective from them.
 
 3. Abusing the report system will not be tolerated. Do not encourage others to report a specific player and do not repeatedly report the same user if a staff member has not attended to the report.
 4. Do not publicly accuse players of hacking.
@@ -63,7 +65,7 @@ Although it is not a requirement, we highly encourage all players to use the /re
     9. Mods that enhance player visibility (enlarged name tags)
     10. Mods that enhance sprinting capabilities
     11. Mods that allow you to see enemy health
-    12. Macros, autoclickers, multiple attack buttons, editing hardware or having software to allow clicking than *humanly* possible, changing default mouse interactions, etc. The general rule as to how you should click is one button, one finger, one click. 
+    12. Macros, autoclickers, multiple attack buttons, editing hardware or having software to allow clicking than *humanly* possible, changing default mouse interactions, etc. Double clicking and triple clicking are also not allowed. The general rule as to how you should click is one button, one finger, one click. 
 
 4. _Consult a staff member if you are unsure a modification is permitted on The Avicus Network._
 
@@ -86,6 +88,7 @@ Although it is not a requirement, we highly encourage all players to use the /re
 7. Posts that discuss details regarding other Minecraft servers is not allowed. Certain sections of these posts may be obscured if the post exhibits any text that could be considered advertising.
 8. Titles should be formatted properly and directly relate to the topic you wish to discuss. Staff members reserve the right to modify any misleading, inaccurate or objectionable titles to create an easier and more streamline experience for users.
 9. Discussions surrounding personal updates, accomplishments or events is frowned upon as they are meant to be inclusive rather than oriented around a single person. Punishments for this will only be distributed in the event that a user continuously uses the forums for this purpose alone.
+10. Do not create topics or posts that mislead or trick other users. 
   
 
 ### E. Scrimmage Server Rules
@@ -94,8 +97,10 @@ Although it is not a requirement, we highly encourage all players to use the /re
 2. Repeatedly failing to utilize a scrimmage server in compliance with this ruleset will result in a punishment for the players involved.
 3. The Avicus Network will not compensate in any way if a scrimmage server fails to activate or performs insufficiently.
 4. Team leaders are ultimately responsible for each team members actions.
+5. Team names, tags and about pages must be appropriate. Any team names, tags or about pages that aren’t appropriate will be removed and the leaders will be punished.
 
 ### F. Other
 
 1. These rules are subject to change without notice. Players are responsible for keeping up with rule changes, it is up to you to keep checking the rule page.
 2. There is a one week grace period for rule changes.
+3. The Avicus Senior Staff Team has the right to ban or unban any player from any Avicus services for any reason without notice. 

@@ -37,9 +37,10 @@ Although it is not a requirement, we highly encourage all players to use the /re
 3. Abusing the report system will not be tolerated. Do not encourage others to report a specific player and do not repeatedly report the same user if a staff member has not attended to the report.
 4. Do not publicly accuse players of hacking.
 5. No spawn killing. This is defined as killing players of other teams briefly after their spawning. Ensure you allow time for enemy team members to acknowledge their location and surroundings. A staff member will use their best judgement to determine if a player is spawn killing.
-6. Do not cooperate with the enemy team in order to give your team a disadvantage.
-7. As a spectator, do not give out tactical information that could potentially give a team or any player in game an advantage over others.
-8. Combat logging (logging off or leaving your team in anticipation of dying) is strictly not permitted.
+6. No spawn camping. This is defined as camping, or staying in another team's spawn in order to wait to farm kills, or is combined with killing newly spawned players in their own spawn. This is enforcable only in the event it is causing an unfair advantage against the enemy team, or the map playing does not have entry restrictions on it.
+7. Do not cooperate with the enemy team in order to give your team a disadvantage.
+8. As a spectator, do not give out tactical information that could potentially give a team or any player in game an advantage over others.
+9. Combat logging (logging off or leaving your team in anticipation of dying) is strictly not permitted.
 
 
 ### C. Client Modifications

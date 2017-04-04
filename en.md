@@ -14,7 +14,7 @@ Although it is not a requirement, we highly encourage all players to use the /re
     - Linking to content that promotes other Minecraft services. This includes, but is not limited to, other Minecraft servers and their corresponding websites and social media content that promotes other Minecraft servers
     - Using miscellaneous communication methods such as poking on the Teamspeak server in a repetitive and bothersome fashion
     - Provoking or insulting people or a group
-    - Distribution of personal information on other users
+    - Distribution of personal information of other users
     - Exessive use of caps
 
 4. Follow the directions given by any Avicus staff member. Do not lie to a staff member. **If you believe a staff member is abusing their power through wrongful punishments or other methods, please email [support@avicus.net](mailto:support@avicus.net) and provide any evidence or details you possess regarding the staff member.**

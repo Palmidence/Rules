@@ -51,7 +51,7 @@ Although it is not a requirement, we highly encourage all players to use the /re
     2. Gammabright
     3. Mods that change Minecraft's graphical user interface
     4. Toggle Sprint
-    5. Rei.s minimap
+    5. Rei's Minimap
     6. 5zig PvP Modification
 
 3. **The mods listed below are strictly not allowed to use:**

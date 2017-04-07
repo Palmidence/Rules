@@ -15,7 +15,7 @@ Although it is not a requirement, we highly encourage all players to use the /re
     - Using miscellaneous communication methods such as poking on the Teamspeak server in a repetitive and bothersome fashion
     - Provoking or insulting people or a group
     - Distributing personal information of users
-    - Exessive use of caps
+    - Excessive use of caps
 
 4. Follow the directions given by any Avicus staff member. Do not lie to a staff member. **If you believe a staff member is abusing their power through wrongful punishments or other methods, please email [support@avicus.net](mailto:support@avicus.net) and provide any evidence or details you possess regarding the staff member.**
 5. Do not encourage other players to break any rule listed on this page. If a player breaks a rule in response to your directions, you will be held accountable.

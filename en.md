@@ -41,6 +41,7 @@ Although it is not a requirement, we highly encourage all players to use the /re
 7. Do not cooperate with the enemy team in order to give your team a disadvantage.
 8. As a spectator, do not give out tactical information that could potentially give a team or any player in game an advantage over others.
 9. Combat logging (logging off or leaving your team in anticipation of dying) is strictly not permitted.
+10. In elimination gamemodes, you are not allowed to hide or camp in a difficult position where you cannot normally access.
 
 
 ### C. Client Modifications

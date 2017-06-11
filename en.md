@@ -4,7 +4,7 @@ Disobeying the rules listed on this page while using any Avicus Network service 
 
 Although it is not a requirement, we highly encourage all players to use the /report feature in game upon encountering a player who is breaking any of the rules listed on this page. If the player is not in game or the rule broken does not pertain to the Minecraft server itself, please contact a staff member through Skype, email or our Teamspeak server.
 
-### A. General Etiquette and Behavior
+### A. Network Rules
 
 1. Maintain a casual and positive atmosphere at all times. Be respectful of all players. Harassment and bullying are strictly not allowed.
 2. Scamming (the act of stealing information, money, accounts or other private goods through deception or trickery) is not allowed and will result in a severe punishment.
@@ -25,7 +25,7 @@ Although it is not a requirement, we highly encourage all players to use the /re
 9. Threatening someone in any way, on most Avicus services, will not be tolerated. This may include, but is not limited to, DDOS, Dox, and death threats of any form. Their are exceptions to this rule on Avicus Teamspeak, depending on the channel you are in.
  
 
-### B. Network Rules
+### B. Server Rules
 
 1. Your Minecraft username and skin must be *appropriate* for all ages. Objectionable skins will not be tolerated. Objectionable usernames and any username that gives the impression of or slightly relates to something objectionable will result in punishment.
 2. You may not intentionally negatively impact your team in any way. This includes any of the following actions listed below. There may be actions not listed below that may be deemed against the rules by a staff member.

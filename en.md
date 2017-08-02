@@ -2,7 +2,7 @@
 
 Disobeying the rules listed on this page while using any Avicus Network service will result in a punishment in the form of a warn, kick, temporary ban, permanent ban, temporary website ban, permanent website ban or a network ban. The punishment is dependent on the severity of the rule broken and the judgement of the staff member. Previous infractions will be taken into account when punishing a player.
 
-Although it is not a requirement, we highly encourage all players to use the /report feature in game upon encountering a player who is breaking any of the rules listed on this page. If the player is not in game or the rule broken does not pertain to the Minecraft server itself, please contact a staff member through Skype, email or our Teamspeak server.
+Although it is not a requirement, we highly encourage all players to use the /report feature in game upon encountering a player who is breaking any of the rules listed on this page. If the player is not in game or the rule broken does not pertain to the Minecraft server itself, please contact a staff member through Skype, email, our TeamSpeak server, or Discord (http://discord.gg/avicus).
 
 ### A. Network Rules
 
@@ -14,8 +14,8 @@ Although it is not a requirement, we highly encourage all players to use the /re
     - Linking to content that promotes other Minecraft services. This includes, but is not limited to, other Minecraft servers and their corresponding websites and social media content that promotes other Minecraft servers
     - Using miscellaneous communication methods such as poking on the Teamspeak server in a repetitive and bothersome fashion
     - Provoking or insulting people or a group
-    - Distribution of personal information of other users
-    - Exessive use of caps
+    - Distributing personal information of users
+    - Excessive use of caps
 
 4. Follow the directions given by any Avicus staff member. Do not lie to a staff member. **If you believe a staff member is abusing their power through wrongful punishments or other methods, please email [support@avicus.net](mailto:support@avicus.net) and provide any evidence or details you possess regarding the staff member.**
 5. Do not encourage other players to break any rule listed on this page. If a player breaks a rule in response to your directions, you will be held accountable.
@@ -37,9 +37,11 @@ Although it is not a requirement, we highly encourage all players to use the /re
 3. Abusing the report system will not be tolerated. Do not encourage others to report a specific player and do not repeatedly report the same user if a staff member has not attended to the report.
 4. Do not publicly accuse players of hacking.
 5. No spawn killing. This is defined as killing players of other teams briefly after their spawning. Ensure you allow time for enemy team members to acknowledge their location and surroundings. A staff member will use their best judgement to determine if a player is spawn killing.
-6. Do not cooperate with the enemy team in order to give your team a disadvantage.
-7. As a spectator, do not give out tactical information that could potentially give a team or any player in game an advantage over others.
-8. Combat logging (logging off or leaving your team in anticipation of dying) is strictly not permitted.
+6. No spawn camping. This is defined as camping, or staying in another team's spawn in order to wait to farm kills, or is combined with killing newly spawned players in their own spawn. This is enforcable only in the event it is causing an unfair advantage against the enemy team, or the map playing does not have entry restrictions on it.
+7. Do not cooperate with the enemy team in order to give your team a disadvantage.
+8. As a spectator, do not give out tactical information that could potentially give a team or any player in game an advantage over others.
+9. Combat logging (logging off or leaving your team in anticipation of dying) is strictly not permitted.
+10. In elimination gamemodes, you are not allowed to hide or camp in a difficult position where you cannot normally access.
 
 
 ### C. Client Modifications
@@ -50,7 +52,7 @@ Although it is not a requirement, we highly encourage all players to use the /re
     2. Gammabright
     3. Mods that change Minecraft's graphical user interface
     4. Toggle Sprint
-    5. Rei.s minimap
+    5. Rei's Minimap
     6. 5zig PvP Modification
 
 3. **The mods listed below are strictly not allowed to use:**

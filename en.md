@@ -8,11 +8,11 @@ Although it is not a requirement, we highly encourage all players to use the /re
 
 1. Maintain a casual and positive atmosphere at all times. Be respectful of all players. Harassment and bullying are strictly not allowed.
 2. Scamming (the act of stealing information, money, accounts or other private goods through deception or trickery) is not allowed and will result in a severe punishment.
-3. The communication features provided through our Minecraft server, the forums and the Avicus Teamspeak server is a privilage. Abusing messaging features through partaking in one of the following actions below is strictly against the rules. If you are unsure if content that you intend to send through chat is allowed, please contact a staff member to verify the content.
+3. The communication features provided through our Minecraft server, the forums and the Avicus TeamSpeak server is a privilage. Abusing messaging features through partaking in one of the following actions below is strictly against the rules. If you are unsure of content that you intend to send through chat is allowed, please contact a staff member to verify the content.
     - Spamming chat: repeatedly sending similar or identical messages to the point in which it may be bothersome and annoying to other users
     - Linking to material that may be considered objectionable
     - Linking to content that promotes other Minecraft services. This includes, but is not limited to, other Minecraft servers and their corresponding websites and social media content that promotes other Minecraft servers
-    - Using miscellaneous communication methods such as poking on the Teamspeak server in a repetitive and bothersome fashion
+    - Using miscellaneous communication methods such as poking on the TeamSpeak server in a repetitive and bothersome fashion
     - Provoking or insulting people or a group
     - Distributing personal information of users
     - Excessive use of caps
@@ -22,7 +22,7 @@ Although it is not a requirement, we highly encourage all players to use the /re
 6. Ban evasion is not permitted, with the exception of ban evading an innapropriate username punishment, and will result in a permanent ban on all accounts associated with the original Minecraft account.
 7. If you are not a staff member, do not impersonate or act as if you are a member of the Avicus staff.
 8. Do not intentionally take advantage of server exploits that give you an advantage of other players. Doing so may result in a severe punishment, depending on its severity. In many instances we would highly encourage you to submit a ticket on the issue tracker, https://github.com/Avicus/Issues/issues, with details regarding the potential server exploit.
-9. Threatening someone in any way, on most Avicus services, will not be tolerated. This may include, but is not limited to, DDOS, Dox, and death threats of any form. Their are exceptions to this rule on Avicus Teamspeak, depending on the channel you are in.
+9. Threatening someone in any way, on most Avicus services, will not be tolerated. This may include, but is not limited to, DDOS, Dox, and death threats of any form. Their are exceptions to this rule on Avicus TeamSpeak, depending on the channel you are in.
  
 
 ### B. Server Rules

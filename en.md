@@ -22,7 +22,7 @@ Although it is not a requirement, we highly encourage all players to use the /re
 6. Ban evasion is not permitted, with the exception of ban evading an innapropriate username punishment, and will result in a permanent ban on all accounts associated with the original Minecraft account.
 7. If you are not a staff member, do not impersonate or act as if you are a member of the Avicus staff.
 8. Do not intentionally take advantage of server exploits that give you an advantage of other players. Doing so may result in a severe punishment, depending on its severity. In many instances we would highly encourage you to submit a ticket on the issue tracker, https://github.com/Avicus/Issues/issues, with details regarding the potential server exploit.
-9. Threatening someone in any way, on most Avicus services, will not be tolerated. This may include, but is not limited to, DDOS, Dox, and death threats of any form. Their are exceptions to this rule on Avicus TeamSpeak, depending on the channel you are in.
+9. Threatening someone in any way, on all Avicus services, will not be tolerated. This may include, but is not limited to, DDOS, Dox, and death threats of any form. 
  
 
 ### B. Server Rules

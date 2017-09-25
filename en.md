@@ -71,8 +71,6 @@ Although it is not a requirement, we highly encourage all players to use the /re
 
 4. _Consult a staff member if you are unsure a modification is permitted on The Avicus Network._
 
-5. Do not intentionally make it look as though you are using a hack client. Doing so will result in a punishment. 
-
   
 
 ### D. Forum Rules

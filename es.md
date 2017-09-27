@@ -67,7 +67,7 @@ Aunque no es una obligación, invitamos a todos los jugadores a usar el comando 
     9. Mods que mejoren la visibilidad del juego (por ejemplo, hacer las name tags de los jugadores más grandes)
     10. Mods que mejoren las capacidades del jugador para sprintar.
     11. Mods que te permiten ver la vida restante del enemigo
-    12. Macros, autoclickers, botones de ataque múltiples, hardwares de edición o tener un software que te permitá clickear más de lo _humanamente posible_, cambiar configuraciones del mouse, etc. Doble click y "triple clicking" no están permitidos. La regla general es, un borón, un dedo, un click.
+    12. Macros, autoclickers, botones de ataque múltiples, hardwares de edición o tener un software que te permitá clickear más de lo _humanamente posible_, cambiar configuraciones del mouse, etc. Doble click y "triple clicking" no están permitidos. La regla general es, un botón, un dedo, un click.
 
 4. _Pregunta a un miembro del staff si no estás seguro si un mod está permitido en Avicus Network._
   

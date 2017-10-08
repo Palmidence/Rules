@@ -2,9 +2,9 @@
  
  Briser les règles listées sur cette page sur un service Avicus Network entraînera une punition sous la forme d'un avertissement, kick, ban temporaire, ban permanent, ban du site internet temporaire, ban du site internet permanent ou un ban complet du réseau Avicus.  La punition dépend de la sévérité de la règle brisée et du jugement du membre du staff. Les infractions précédentes seront prises en compte lors du punissement d'un joueur.
  
- Bien que ce ne soit pas obligatoire, nous encourageons fortement l'utilisation de la commande /report en jeu si vous rencontrez un joueur brisant n'importe laquelle des règles listées sur cette page.  Si le joueur n'est pas en jeu ou si la règle brisé n'est pas de l'ordre du serveur minecraft en lui-même, nous vous prions de contacter un membre du staff via Skype, email, notre serveur SeamSpeak ou Discord.(http://discord.gg/avicus).
+ Bien que ce ne soit pas obligatoire, nous encourageons fortement l'utilisation de la commande /report en jeu si vous rencontrez un joueur brisant n'importe laquelle des règles listées sur cette page.  Si le joueur n'est pas en jeu ou si la règle brisé n'est pas de l'ordre du serveur minecraft en lui-même, nous vous prions de contacter un membre du staff via Skype, email, notre serveur TeamSpeak ou Discord.(http://discord.gg/avicus).
  
- ### A. Network Rules
+ ### A. Règles du réseau Avicus
  
  1. Gardez une atmosphère détendue et positive en tout temps. Soyez respectueux vis-à-vis des autres joueurs. Le harcèlement n'est strictement pas toléré.
  2. Escroquer (le fait de voler des informations, de l'argent, des comptes ou autres biens via des mensonges ou arnaques en tout genre) n'est pas autorisé et résultera en une sévère punition.
@@ -14,6 +14,7 @@
      - L'utilisation de moyens de communications tels que la fonction de “poking” de TeamSpeak de manière répété et agaçante.
      - Provoquer ou insulter une personne ou un groupe de personnes.
      - La distribution d'informations personnelles d'autres utlisateurs.
+
 4. Suiver les consignes données par n'importe quel membre du staff Avicus. Ne mentez pas à un membre du staff. **Si vous pensez qu'un membre du staff abuse de son pouvoir ou en fait une mauvaise utilisation (fausses puntions ou autres), nous vous prions d'envoyer un email à  [support@avicus.net](mailto:support@avicus.net) et de nous faire parvenir tout preuve ou détail en votre posession vis-à-vis de cet abus.**
 5. N'encouragez pas d'autres joueurs à briser les règles listés sur cette page. Si un joueur brise les règles après que vous l'y ayez incité, vous serez tenu pour responsable.
 6. Le “Ban evading” est strictement interdit (se connecter sur le serveur Avicus sur un compte non banni quand un autre de vos comptes à déjà été banni), à l'exception de "ban evade" une punition pour pseudonyme inapproprié, et entraînera un ban permanent sur tout les comptes associés au compte Minecraft originellement banni.

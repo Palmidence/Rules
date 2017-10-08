@@ -13,5 +13,6 @@ Current Languages
 
 - [x] English *updated as of June 11, 2017*
 - [x] Spanish *updated as of September 26, 2017*
+- [x] French *updated as of October 8, 2017*
 - [ ] German
 - [ ] Swedish

@@ -5,7 +5,7 @@ Briser les règles listées sur cette page sur un service Avicus Network entraî
 Bien que ce ne soit pas obligatoire, nous encourageons fortement l'utilisation de la commande /report en jeu si vous rencontrez un joueur brisant n'importe laquelle des règles listées sur cette page.  Si le joueur n'est pas en jeu ou si la règle brisé n'est pas de l'ordre du serveur minecraft en lui-même, nous vous prions de contacter un membre du staff via Skype, email, notre serveur TeamSpeak ou Discord (http://discord.gg/avicus).
  
  
- ### A. Règles du réseau Avicus
+### A. Règles du réseau Avicus
  
  1. Gardez une atmosphère détendue et positive en tout temps. Soyez respectueux vis-à-vis des autres joueurs. Le harcèlement n'est strictement pas toléré.
  2. Escroquer (le fait de voler des informations, de l'argent, des comptes ou autres biens via des mensonges ou arnaques en tout genre) n'est pas autorisé et résultera en une sévère punition.

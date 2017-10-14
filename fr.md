@@ -7,9 +7,9 @@ Bien que ce ne soit pas obligatoire, nous encourageons fortement l'utilisation d
  
 ### A. Règles du réseau Avicus
  
- 1. Gardez une atmosphère détendue et positive en tout temps. Soyez respectueux vis-à-vis des autres joueurs. Le harcèlement n'est strictement pas toléré.
- 2. Escroquer (le fait de voler des informations, de l'argent, des comptes ou autres biens via des mensonges ou arnaques en tout genre) n'est pas autorisé et résultera en une sévère punition.
- 3. La fonctionnalité de communication fourni au travers de notre serveur, forum ou TeamSpeak est un privilège. Abuser de cette fonctionnalité en prenant par à l'une des actions listés ci-dessous va strictement à l'encontre de nos règles. Si vous n'êtes pas certain si le contenu que vous souhaitez envoyer est autorisé, nous vous prions de contacter un membre du staff qui s'occupera de le vérifier pour vous.
+1. Gardez une atmosphère détendue et positive en tout temps. Soyez respectueux vis-à-vis des autres joueurs. Le harcèlement n'est strictement pas toléré.
+2. Escroquer (le fait de voler des informations, de l'argent, des comptes ou autres biens via des mensonges ou arnaques en tout genre) n'est pas autorisé et résultera en une sévère punition.
+3. La fonctionnalité de communication fourni au travers de notre serveur, forum ou TeamSpeak est un privilège. Abuser de cette fonctionnalité en prenant par à l'une des actions listés ci-dessous va strictement à l'encontre de nos règles. Si vous n'êtes pas certain si le contenu que vous souhaitez envoyer est autorisé, nous vous prions de contacter un membre du staff qui s'occupera de le vérifier pour vous.
      - Spammer le chat: envoyer des messages similaires ou identiques à répétition d'une manière qui peut être agaçante et/ou dérangeante pour les autres utilisateurs.
      - Lier à un matériau qui peut être considéré comme répréhensible.
      - Envoyer des liens promotant d'autres services Minecraft. Ceci inclut, mais n'est pas limité à, d'autres serveurs Minecraft et leur site internet correspondant, ainsi que des réseaux sociaux promotant aussi d'autres serveurs minecraft.

@@ -11,12 +11,12 @@ Bien que ce ne soit pas obligatoire, nous encourageons fortement l'utilisation d
  2. Escroquer (le fait de voler des informations, de l'argent, des comptes ou autres biens via des mensonges ou arnaques en tout genre) n'est pas autorisé et résultera en une sévère punition.
  3. La fonctionnalité de communication fourni au travers de notre serveur, forum ou TeamSpeak est un privilège. Abuser de cette fonctionnalité en prenant par à l'une des actions listés ci-dessous va strictement à l'encontre de nos règles. Si vous n'êtes pas certain si le contenu que vous souhaitez envoyer est autorisé, nous vous prions de contacter un membre du staff qui s'occupera de le vérifier pour vous.
      - Spammer le chat: envoyer des messages similaires ou identiques à répétition d'une manière qui peut être agaçante et/ou dérangeante pour les autres utilisateurs.
-     - Lier à un matériau qui peut être considéré comme répréhensible
+     - Lier à un matériau qui peut être considéré comme répréhensible.
      - Envoyer des liens promotant d'autres services Minecraft. Ceci inclut, mais n'est pas limité à, d'autres serveurs Minecraft et leur site internet correspondant, ainsi que des réseaux sociaux promotant aussi d'autres serveurs minecraft.
      - L'utilisation de moyens de communications tels que la fonction de “poking” de TeamSpeak de manière répété et agaçante.
      - Provoquer ou insulter une personne ou un groupe de personnes.
      - La distribution d'informations personnelles d'autres utlisateurs.
-     - Utilisation excessive de capsules
+     - Utilisation excessive de capsules.
 
 4. Suiver les consignes données par n'importe quel membre du staff Avicus. Ne mentez pas à un membre du staff. **Si vous pensez qu'un membre du staff abuse de son pouvoir ou en fait une mauvaise utilisation (fausses puntions ou autres), nous vous prions d'envoyer un email à  [support@avicus.net](mailto:support@avicus.net) et de nous faire parvenir tout preuve ou détail en votre posession vis-à-vis de cet abus.**
 5. N'encouragez pas d'autres joueurs à briser les règles listés sur cette page. Si un joueur brise les règles après que vous l'y ayez incité, vous serez tenu pour responsable.

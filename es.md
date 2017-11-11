@@ -2,7 +2,7 @@
 
 Desobedecer las reglas escritas en esta página mientras se esté haciendo uso de cualquier servicio de Avicus Network resultará en un castigo en forma de aviso, kick, baneo temporal, baneo permanente, baneo de página web temporal, o baneo de página web permanente. El tipo de infracción depende en la importancia de la regla rota y la interpretación del miembro del staff de las acciones. El historial de infracciones de un jugador jugarán un papel cuando se tenga que castigar de nuevo al mismo.
 
-Aunque no es una obligación, invitamos a todos los jugadores a usar el comando /report en el juego cuando estos encuentran a un jugador que esté rompiendo una o varias de las reglas escritas en esta página. Si el jugador no está en el juego o la regla rota no pertenece al servidor de Minecraft, por favor contacta a un miembro del staff mediante Skype, email o nuestro servidor de TeamSpeak, o Discord (http://discord.gg/avicus).
+Aunque no es una obligación, invitamos a todos los jugadores a usar el comando /report en el juego cuando estos encuentran a un jugador que esté rompiendo una o varias de las reglas escritas en esta página. Si el jugador no está en el juego o la regla rota no pertenece al servidor de Minecraft, por favor contacta a un miembro del staff mediante Skype, email o nuestro servidor de TeamSpeak, o Discord (https://discord.gg/ptDJPC).
 
 
 ### A. Comportamiento

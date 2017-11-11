@@ -2,7 +2,7 @@
  
 Briser les règles listées sur cette page sur un service Avicus Network entraînera une punition sous la forme d'un avertissement, kick, ban temporaire, ban permanent, ban du site internet temporaire, ban du site internet permanent ou un ban complet du réseau Avicus.  La punition dépend de la sévérité de la règle brisée et du jugement du membre du staff. Les infractions précédentes seront prises en compte lors du punissement d'un joueur.
  
-Bien que ce ne soit pas obligatoire, nous encourageons fortement l'utilisation de la commande /report en jeu si vous rencontrez un joueur brisant n'importe laquelle des règles listées sur cette page.  Si le joueur n'est pas en jeu ou si la règle brisé n'est pas de l'ordre du serveur minecraft en lui-même, nous vous prions de contacter un membre du staff via Skype, email, notre serveur TeamSpeak ou Discord (http://discord.gg/avicus).
+Bien que ce ne soit pas obligatoire, nous encourageons fortement l'utilisation de la commande /report en jeu si vous rencontrez un joueur brisant n'importe laquelle des règles listées sur cette page.  Si le joueur n'est pas en jeu ou si la règle brisé n'est pas de l'ordre du serveur minecraft en lui-même, nous vous prions de contacter un membre du staff via Skype, email, notre serveur TeamSpeak ou Discord (https://discord.gg/ptDJPC).
  
  
 ### A. Règles du réseau Avicus

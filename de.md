@@ -2,7 +2,7 @@
 
 Das Nicht Befolgen der Regeln, welche auf dieser Seite gelistet sind, während der Benutzung eines Service, welches das Avicus Netzwerk bereit stellt wird in einer Bestrafung resultieren. Diese Strafen werden in Form von Warns, Kicks, Temporären Bans, Permanenten Bans, Temporären Website-Bans oder Permanenten Website-Bans vergeben. Die Bestrafung hängt von der Schwere des Regelbruchs und der Beurteilung des Personal Mitglieds ab. Vorherige Strafen werden berücksichtigt, wenn es darum geht einen Spieler zu bestrafen.
 
-Obwohl es keine Bedingung ist, halten wir alle Spieler dazu an das /report Feature zu nutzen um Spieler, welche Regeln brechen zu melden. Wenn der Spieler nicht im Spiel ist oder der Regelbruch nicht mit dem Minecraft Server selber zu tun hat, dann kontaktiere ein Personal Mitglied via Skype, E-Mail, unseren TeamSpeak Server oder unser Discord (http://discord.gg/avicus).
+Obwohl es keine Bedingung ist, halten wir alle Spieler dazu an das /report Feature zu nutzen um Spieler, welche Regeln brechen zu melden. Wenn der Spieler nicht im Spiel ist oder der Regelbruch nicht mit dem Minecraft Server selber zu tun hat, dann kontaktiere ein Personal Mitglied via Skype, E-Mail, unseren TeamSpeak Server oder unser Discord (https://discord.gg/ptDJPC).
 
 ### A. Generelle Etikette und Verhalten
 

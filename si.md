@@ -2,7 +2,7 @@
 
 Neupoštevanje pravil zapisanih na tej strani bomo med uporabo katerekoli Avicus Network storitve kaznovali v obliki opozorila, kick-a, začasne ali trajne prepovedi obiska strežnika, začasne ali trajne prepovedi obiska spletne strani ter prepovedi uporabe vseh naših storitev. Kazen se določa glede na resnost prekršenega pravila in odločitve našega osebja. Pri kaznovanju imamo pravico upoštevati tudi prejšnje izvršene kazni.
 
-Kljub temu, da to ni pogoj, naše igralce prosimo k uporabo /report ukaza v primeru, da katerikoli igralec na strežniku prekrši eno ali več izmed pravil zapisanih na spletni strani. Če igralec ni več v igri, ali pa prekršeno pravilo ne zadeva našega strežnika ampak katerekoli druge storitve, Vas naprošamo, da o tem obvestite naše osebje preko storitev Skype, email, TeamSpeak strežnika ali Discord-a (http://discord.gg/avicus).
+Kljub temu, da to ni pogoj, naše igralce prosimo k uporabo /report ukaza v primeru, da katerikoli igralec na strežniku prekrši eno ali več izmed pravil zapisanih na spletni strani. Če igralec ni več v igri, ali pa prekršeno pravilo ne zadeva našega strežnika ampak katerekoli druge storitve, Vas naprošamo, da o tem obvestite naše osebje preko storitev Skype, email, TeamSpeak strežnika ali Discord-a (https://discord.gg/ptDJPC).
 
 ### A. Splošni bonton in obnašanje
 

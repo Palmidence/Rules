@@ -16,7 +16,7 @@ Current Languages
 - [x] French *updated as of October 8, 2017*
 - [x] Portuguese *updated as of October 14, 2017*
 - [x] Slovenian *updated as of September 29, 2017*
-- [ ] German
+- [x] German *updated as of November 15, 2017*
 - [ ] Swedish
 - [ ] Russian
 - [ ] Japanese

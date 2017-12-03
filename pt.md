@@ -2,7 +2,7 @@
 
 Desobedecer as regras listadas nesta página durante o uso de qualquer serviço da Avicus Network resultará em uma punição sob a forma de aviso, chute, proibição temporária, proibição permanente, proibição temporária do site, proibição permanente do site ou uma proibição de rede. A punição depende da gravidade da regra quebrada e do julgamento do membro do pessoal. As infrações anteriores serão levadas em consideração ao punir um jogador.
 
-Embora não seja um requisito, incentivamos incrivelmente todos os jogadores a usar o recurso /report no jogo ao encontrar um jogador que esteja quebrando qualquer uma das regras listadas nesta página. Se o jogador não estiver no jogo ou a regra quebrada não pertence ao próprio servidor Minecraft, entre em contato com um membro da equipe através do Skype, e-mail, nosso servidor TeamSpeak ou Discord (https://discord.gg/ptDJPC).
+Embora não seja um requisito, incentivamos incrivelmente todos os jogadores a usar o recurso /report no jogo ao encontrar um jogador que esteja quebrando qualquer uma das regras listadas nesta página. Se o jogador não estiver no jogo ou a regra quebrada não pertence ao próprio servidor Minecraft, entre em contato com um membro da equipe através do Skype, e-mail, nosso servidor TeamSpeak ou Discord (https://discord.gg/Z3CP9Ht).
 
 ### A. Regras de rede
 

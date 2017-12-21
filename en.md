@@ -69,8 +69,23 @@ If you believe a staff member is abusing their power through wrongful punishment
 
 4. _Consult moderation staff if you are unsure a modification is permitted on The Avicus Network._
 
-  
-
+### D. Discord Rules
+1. Do not use Discord reactions inappropriately.
+2. Avatars and usernames must be appropriate for all ages.
+3. Do not spam unnecessary comments in channels that are not meant for it (go to #random).
+4. Your discord name must be your Minecraft name or something similar according to a staff member.
+5. Use commands (ex. ping types) for appropriate reasons.
+6. Do not play music in voice channels without user consent.
+7. Each channel has different rules intended for user comfort:
+    - Cursing Forbidden
+      - All standard rules apply, except you may not use inappropriate language.
+    - Cursing Allowed
+      - All standard rules apply, and swearing is allowed.
+    - NSFW (18+)
+      - Language and behavior is generally not controlled, except by staff discretion.
+    - Language Chats
+      - Language chats are intended for speakers of the language specified, and only that language is permitted.
+ 
 ### D. Forum Rules
 
 1. Do not create topics or posts that provoke or insult other people or groups. Any content that includes rudeness, harassment, mocking or public shaming will be archived and further punishments may be issued.

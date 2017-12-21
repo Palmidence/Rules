@@ -49,28 +49,25 @@ If you believe a staff member is abusing their power through wrongful punishment
 
 1. Any client modifications that give you a severe, game altering advantage over other Minecraft players is not allowed.
 2. **The mods listed below are permitted for use through Avicus:**
-    1. Optifine
-    2. Gammabright
-    3. Mods that change Minecraft's graphical user interface
-    4. Toggle Sprint
-    5. Rei's Minimap
-    6. 5zig PvP Modification
+    - Minimaps that don't reveal positions of entities/underground tunnels
+    - Mods that change Minecraft's graphical user interface
+    - 5zig PvP Modification
+    - Brightness modifiers
+    - Toggle Sprint
+    - Optifine
 
 3. **The mods listed below are strictly not allowed to use:**
-    1. Sorting inventory mods
-    2. Fly mods
-    3. Aimbots
-    4. Toggle-crouch mods that allow crouching while using a Minecraft interface (inventories, menus, chat)
-    5. Minimaps that reveals the positions of creatures, players or underground caves/tunnels
-    6. Auto-swing mods
-    7. Mods that assist in switching tools
-    8. X-ray mods or texture packs
-    9. Mods that enhance player visibility (enlarged name tags)
-    10. Mods that enhance sprinting capabilities
-    11. Mods that allow you to see enemy health
-    12. Macros, autoclickers, multiple attack buttons, editing hardware or having software to allow clicking than *humanly* possible, changing default mouse interactions, etc. Double clicking and triple clicking are also not allowed. The general rule as to how you should click is one button, one finger, one click. 
+    - Macros, autoclickers, multiple attack buttons, editing hardware or having software to allow clicking than *humanly* possible, changing default mouse interactions, etc. Double clicking and triple clicking are also not allowed. The general rule as to how you should click is one button, one finger, one click.
+    - Toggle-crouch mods that allow crouching while using a Minecraft interface (inventories, menus, chat)
+    - Mods that automate actions (such as inventory, tool swapping, etc.)
+    - Mods that enhance player visibility (enlarged name tags)
+    - Mods that enhance sprinting capabilities
+    - Mods that allow you to see enemy health
+    - X-ray mods, player tracers, or texture packs
+    - Aim assist mods
+    - Fly mods
 
-4. _Consult a staff member if you are unsure a modification is permitted on The Avicus Network._
+4. _Consult moderation staff if you are unsure a modification is permitted on The Avicus Network._
 
   
 

@@ -28,21 +28,21 @@ If you believe a staff member is abusing their power through wrongful punishment
 
 ### B. Server Rules
 
-1. Your Minecraft username and skin must be *appropriate* for all ages. Objectionable skins will not be tolerated. Objectionable usernames and any username that gives the impression of or slightly relates to something objectionable will result in punishment.
-2. You may not intentionally negatively impact your team in any way. This includes any of the following actions listed below. There may be actions not listed below that may be deemed against the rules by a staff member.
-    - Stealing from team members
-    - Griefing team bases and structures
-    - Killing or attempting to kill members of your own team
+1. Your Minecraft username and skin must not be objectionable to *any age*.
+2. You may not negatively impact your team. This includes, but is not limited to any of the following actions listed below:
     - Preventing your teammate from completing an objective or stealing an objective from them.
+    - Killing or attempting to kill members of your own team.
+    - Griefing team bases and structures.
+    - Cooperating with the enemy team.
+    - Stealing from team members.
 
-3. Abusing the report system will not be tolerated. Do not encourage others to report a specific player and do not repeatedly report the same user if a staff member has not attended to the report.
+3. Do not abuse the report system.
 4. Do not publicly accuse players of hacking.
-5. No spawn killing. This is defined as killing players of other teams briefly after their spawning. Ensure you allow time for enemy team members to acknowledge their location and surroundings. A staff member will use their best judgement to determine if a player is spawn killing.
-6. No spawn camping. This is defined as camping, or staying in another team's spawn in order to wait to farm kills, or is combined with killing newly spawned players in their own spawn. This is enforcable only in the event it is causing an unfair advantage against the enemy team, or the map playing does not have entry restrictions on it.
-7. Do not cooperate with the enemy team in order to give your team a disadvantage.
-8. As a spectator, do not give out tactical information that could potentially give a team or any player in game an advantage over others.
-9. Combat logging (logging off or leaving your team in anticipation of dying) is strictly not permitted.
-10. In elimination gamemodes, you are not allowed to hide or camp in a difficult position where you cannot normally access.
+5. Do not spawn kill. This is defined as killing players of other teams briefly after their spawning. Ensure you allow time for enemy team members to acknowledge their location and surroundings.
+6. Do not stay in the enemy's spawn for a prolonged duration of time.
+7. As a spectator, do not give out match information that could potentially give a team or player an advantage over others.
+8. Combat logging (logging off or leaving your team in anticipation of dying) is strictly not permitted.
+9. In elimination gamemodes, you are not allowed to hide or stay in the same spot for a prolonged duration of time.
 
 
 ### C. Client Modifications

@@ -88,20 +88,14 @@ If you believe a staff member is abusing their power through wrongful punishment
  
 ### E. Forum Rules
 
-1. Do not create topics or posts that provoke or insult other people or groups. Any content that includes rudeness, harassment, mocking or public shaming will be archived and further punishments may be issued.
-2. Do not encourage "flame wars" or other inflammatory discussions.
-3. Comments about certain events that could be seen as offensive or inappropriate by any individual or group are not tolerated.
-4. Stay on topic in discussions. Posts not relating to the topic will be deleted without hesitation. The staff team reserves the right to lock or archive topics which include:
+1. Comments about certain events that could be seen as offensive or inappropriate by any individual or group are not tolerated.
+2. Stay on topic in discussions. Posts not relating to the topic will be deleted without hesitation. The staff team reserves the right to lock or archive topics which include:
     - Spam posts
     - Unnecessary bumps, micro-posting or comments that do not contribute to the topic
     - Arguments with the intention of humiliating or casting bad light on certain individuals or groups
 
-5. Bumping topics is highly discouraged. If you believe a topic has not received the popularity you had hoped, you may bump the post with updates or new ideas that pertain to the topic.
-6. Inappropriate images and links, as mentioned in §A.2, will not be tolerated.
-7. Posts that discuss details regarding other Minecraft servers is not allowed. Certain sections of these posts may be obscured if the post exhibits any text that could be considered advertising.
-8. Titles should be formatted properly and directly relate to the topic you wish to discuss. Staff members reserve the right to modify any misleading, inaccurate or objectionable titles to create an easier and more streamline experience for users.
-9. Discussions surrounding personal updates, accomplishments or events is frowned upon as they are meant to be inclusive rather than oriented around a single person. Punishments for this will only be distributed in the event that a user continuously uses the forums for this purpose alone.
-10. Do not create topics or posts that mislead or trick other users. 
+3. Titles should be formatted properly and directly relate to the topic you wish to discuss. 
+4. Discussions surrounding personal updates, accomplishments or events is frowned upon as they are meant to be inclusive rather than oriented around a single person. Punishments for this will only be distributed in the event that a user continuously uses the forums for this purpose alone.
   
 ### F. Other
 

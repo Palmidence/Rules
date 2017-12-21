@@ -86,7 +86,7 @@ If you believe a staff member is abusing their power through wrongful punishment
     - Language Chats
       - Language chats are intended for speakers of the language specified, and only that language is permitted.
  
-### D. Forum Rules
+### E. Forum Rules
 
 1. Do not create topics or posts that provoke or insult other people or groups. Any content that includes rudeness, harassment, mocking or public shaming will be archived and further punishments may be issued.
 2. Do not encourage "flame wars" or other inflammatory discussions.
@@ -103,8 +103,8 @@ If you believe a staff member is abusing their power through wrongful punishment
 9. Discussions surrounding personal updates, accomplishments or events is frowned upon as they are meant to be inclusive rather than oriented around a single person. Punishments for this will only be distributed in the event that a user continuously uses the forums for this purpose alone.
 10. Do not create topics or posts that mislead or trick other users. 
   
-### E. Other
+### F. Other
 
-1. These rules are subject to change without notice. Players are responsible for keeping up with rule changes, it is up to you to keep checking the rule page.
-2. There is a one week grace period for rule changes.
-3. The Avicus Senior Staff Team has the right to ban or unban any player from any Avicus services for any reason without notice. 
+1. The Avicus Senior Staff Team has the right to ban or unban any player from any Avicus services for any reason without notice. 
+2. These rules are subject to change without notice. Players are responsible for keeping up with rule changes.
+3. There is a one week grace period for rule changes, whether added or removed.

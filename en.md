@@ -1,28 +1,29 @@
 ﻿### Preface
 
-Disobeying the rules listed on this page while using any Avicus Network service will result in a punishment in the form of a warn, kick, temporary ban, permanent ban, temporary website ban, permanent website ban or a network ban. The punishment is dependent on the severity of the rule broken and the judgement of the staff member. Previous infractions will be taken into account when punishing a player.
+Disobeying the rules listed on this page while using any Avicus Network service will result in a punishment depending on the severity of the rule broken and is at the discretion of the staff member. Previous infractions will be taken into account when punishing a player.
 
-Although it is not a requirement, we highly encourage all players to use the /report feature in game upon encountering a player who is breaking any of the rules listed on this page. If the player is not in game or the rule broken does not pertain to the Minecraft server itself, please contact a staff member through Skype, email, our TeamSpeak server, or Discord (https://discord.gg/Z3CP9Ht).
+Although it is not a requirement, we highly encourage all players to use the /report feature in game upon encountering a player who is breaking any of the rules listed on this page. If the player is not in game or the rule broken does not pertain to the Minecraft server itself, please post in the "Report a Player" (https://avicus.net/forums/categories/47) section of the forums.
+
+If you believe a staff member is abusing their power through wrongful punishments or other methods, please post in the "Support" (https://avicus.net/forums/categories/1509) section of the forums.
 
 ### A. Network Rules
 
-1. Maintain a casual and positive atmosphere at all times. Be respectful of all players. Harassment and bullying are strictly not allowed.
-2. Scamming (the act of stealing information, money, accounts or other private goods through deception or trickery) is not allowed and will result in a severe punishment.
-3. The communication features provided through our Minecraft server, the forums and the Avicus TeamSpeak server is a privilage. Abusing messaging features through partaking in one of the following actions below is strictly against the rules. If you are unsure of content that you intend to send through chat is allowed, please contact a staff member to verify the content.
-    - Spamming chat: repeatedly sending similar or identical messages to the point in which it may be bothersome and annoying to other users
-    - Linking to material that may be considered objectionable
-    - Linking to content that promotes other Minecraft services. This includes, but is not limited to, other Minecraft servers and their corresponding websites and social media content that promotes other Minecraft servers
-    - Using miscellaneous communication methods such as poking on the TeamSpeak server in a repetitive and bothersome fashion
-    - Provoking or insulting people or a group
-    - Distributing personal information of users
-    - Excessive use of caps
+1. The communication features provided through Avicus are a privilege. If you are unsure of content that you intend to send through chat is allowed, please contact a staff member to verify the content. The following actions are not tolerated:
+    - Linking to content that promotes and/or advertises other Minecraft services.
+    - Not maintaining a casual atmosphere on the server or towards other players.
+    - Threatening users (DDoS, DOX, blackmail, etc.)
+    - Misleading, tricking, or decieving players.
+    - Distributing personal information.
+    - Linking to objectionable material.
+    - Impersonating staff members.
+    - Selling goods and services.
+    - Excessive usage of caps.
+    - Spamming chat.
 
-4. Follow the directions given by any Avicus staff member. Do not lie to a staff member. **If you believe a staff member is abusing their power through wrongful punishments or other methods, please email [support@avicus.net](mailto:support@avicus.net) and provide any evidence or details you possess regarding the staff member.**
-5. Do not encourage other players to break any rule listed on this page. If a player breaks a rule in response to your directions, you will be held accountable.
-6. Ban evasion is not permitted, with the exception of ban evading an innapropriate username punishment, and will result in a permanent ban on all accounts associated with the original Minecraft account.
-7. If you are not a staff member, do not impersonate or act as if you are a member of the Avicus staff.
-8. Do not intentionally take advantage of server exploits that give you an advantage of other players. Doing so may result in a severe punishment, depending on its severity. In many instances we would highly encourage you to submit a ticket on the issue tracker, https://github.com/Avicus/Issues/issues, with details regarding the potential server exploit.
-9. Threatening someone in any way, on all Avicus services, will not be tolerated. This may include, but is not limited to, DDOS, Dox, and death threats of any form. 
+2. Follow the directions given by staff.
+3. Do not encourage other players to break the rules.
+4. Ban evasion is not permitted, with the exception of ban evading an inappropriate username punishment.
+5. Do not intentionally take advantage of server exploits. In many instances, we would highly encourage you to submit a ticket on the issue tracker, https://github.com/Avicus/Issues/issues, with details regarding the potential server exploit.
  
 
 ### B. Server Rules
@@ -90,16 +91,7 @@ Although it is not a requirement, we highly encourage all players to use the /re
 9. Discussions surrounding personal updates, accomplishments or events is frowned upon as they are meant to be inclusive rather than oriented around a single person. Punishments for this will only be distributed in the event that a user continuously uses the forums for this purpose alone.
 10. Do not create topics or posts that mislead or trick other users. 
   
-
-### E. Scrimmage Server Rules
-
-1. All server rules apply with the exception of spawn-blocking, spawn-killing, team griefing, combat logging and team spleefing.
-2. Repeatedly failing to utilize a scrimmage server in compliance with this ruleset will result in a punishment for the players involved.
-3. The Avicus Network will not compensate in any way if a scrimmage server fails to activate or performs insufficiently.
-4. Team leaders are ultimately responsible for each team members actions.
-5. Team names, tags and about pages must be appropriate. Any team names, tags or about pages that aren’t appropriate will be removed and the leaders will be punished.
-
-### F. Other
+### E. Other
 
 1. These rules are subject to change without notice. Players are responsible for keeping up with rule changes, it is up to you to keep checking the rule page.
 2. There is a one week grace period for rule changes.
